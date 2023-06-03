@@ -9,7 +9,7 @@ To get started with this project, follow the instructions below:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/my-react-app.git
+   git clone https://github.com/Shakeelkhuhro/framer-motion.git
 2. Install dependencies:
     npm install
 3. Run the development server:
