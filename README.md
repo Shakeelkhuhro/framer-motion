@@ -25,8 +25,8 @@ This will start the development server and launch the application in your browse
 # Dependencies
 This project relies on the following dependencies:
 
-React: https://reactjs.org/
-Framer Motion: https://www.framer.com/api/motion/
+1. React: https://reactjs.org/
+2. Framer Motion: https://www.framer.com/api/motion/
 
 Make sure to have these dependencies installed in your project before running the application.
 
